@@ -1,0 +1,11 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array nane="provarray">
+        <item>河南省</item>
+        <item>河北省</item>
+        <item>山东省</item>
+        <item>广东省</item>
+     </string-array>
+     
+</resources>
