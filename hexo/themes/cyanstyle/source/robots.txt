@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://eyutongling.github.io/sitemap.xml

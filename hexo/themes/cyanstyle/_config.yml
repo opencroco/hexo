@@ -1,0 +1,35 @@
+# Header
+menu:
+  首页: eyutongling.github.io 
+  代码仓库: https://github.com/eyutongling
+  简历: 
+  捐赠名单: /donors
+  留言板: /about
+  
+
+# Content
+excerpt_link: 更多内容
+prev: 上一页
+next: 下一页
+reply: 评论
+share: 分享
+fancybox: true
+
+# Sidebar
+widgets:
+- about
+- support
+- music
+- recent_posts
+- archive
+- category
+- link
+- account
+
+# Miscellaneous
+google_analytics: 
+favicon: http://7u2hdm.com1.z0.glb.clouddn.com/favicon.ico
+google_site_verification: NCXVSqxqB-os803-VFMtIEd1SUNJVOIjctCfNYUwD0w
+baidu_site_verification: Nzwx7HuplM
+bing_site_verification: 9E9EA92F7E5327E1FE8A5196D5253664
+music: http://fs.web.kugou.com/46e456ade883f17f40f3811b5916caa6/599f7c91/G022/M0A/08/09/Vg0DAFWDkdGAPFFHACv-CpSGu8o651.mp3
